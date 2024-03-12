@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 
 public class FA
+	
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
