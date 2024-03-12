@@ -9,9 +9,9 @@ import java.util.Scanner;
 public class FA
 	
 {
-	
 	public static void main(String[] args) {
-	    Scanner scanner = new Scanner(System.in);
+	    
+	Scanner scanner = new Scanner(System.in);
         String[] input1 = new String[20];
         int numStates = 0;
         int finalState[];
